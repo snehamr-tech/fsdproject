@@ -1,3 +1,3 @@
 # fsdproject
 mini project 
-real eatate booking system website
+Real estate booking system website
